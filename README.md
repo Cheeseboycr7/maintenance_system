@@ -1,3 +1,28 @@
+
+# Maintenance System - README
+
+## System Overview
+The Maintenance System is a comprehensive solution designed to streamline and automate maintenance operations, work orders, and asset management.
+
+## Features
+- **Work Order Management** - Create, track, and complete maintenance requests
+- **Asset Tracking** - Monitor equipment and facility assets
+- **Preventive Maintenance** - Schedule routine maintenance tasks
+- **Inventory Management** - Track spare parts and materials
+- **Reporting & Analytics** - Generate maintenance reports and insights
+- **User Management** - Role-based access control
+
+## Installation Requirements
+
+### System Requirements
+- Operating System: Windows Server 2019+ or Linux Ubuntu 18.04+
+- Database: MySQL 8.0+ or PostgreSQL 12+
+- Web Server: Apache 2.4+ or Nginx 1.18+
+- PHP: 8.1+ or Node.js 16+ (depending on stack)
+
+
+### Dependencies
+
 # TCPDF
 *PHP PDF Library*
 
